@@ -1,8 +1,8 @@
 import pygame
 
-x=50
-y=50
-Vel=5
+x=60
+y=60
+Vel=10
 pygame.init()
 widht,height= 1280,720
 screen = pygame.display.set_mode((widht,height))
